@@ -24,6 +24,8 @@
 #include "NanohubHidlAdapter.h"
 #include "nanohub_perdevice.h"
 
+#include <fcntl.h>
+
 #include <inttypes.h>
 
 #include <log/log.h>

@@ -16,6 +16,8 @@
 
 #define LOG_TAG "NanohubHAL"
 
+#include <fcntl.h>
+
 #include "file.h"
 #include <json/json.h>
 
